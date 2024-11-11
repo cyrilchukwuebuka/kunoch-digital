@@ -8,7 +8,7 @@ const Logo = () => {
     <Link href={HOME_ROUTE} className="relative w-36 h-20 outline-none">
       <Image
         src="/assets/images/logo.svg"
-        alt="Mustard credit"
+        alt="Kunoch Digital"
         style={{
           objectFit: "contain",
           objectPosition: "center",
